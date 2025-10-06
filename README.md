@@ -1,6 +1,6 @@
 ## How to run?
 
-conda create -n test python=3.13.7 -y
+conda create -n test python=3.11 -y
 
 conda activate test
 
